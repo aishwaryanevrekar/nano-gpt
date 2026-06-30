@@ -14,7 +14,7 @@ Built as part of **Introduction to Artificial Intelligence** course under **Dr. 
 | Aishwarya Nevrekar | [@aishwaryanevrekar](https://github.com/aishwaryanevrekar) |
 | Kushagra Gupta | [@kushagragupta-23](https://github.com/kushagragupta-23) |
 
----
+----
 
 ## What This Project Does
 
